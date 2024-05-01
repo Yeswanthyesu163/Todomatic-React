@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Yeswanth's Todo List App</h1>
+        <h1>Yeswanth's New Todo List App</h1>
       </header>
       <Form 
       todos={todos} 
